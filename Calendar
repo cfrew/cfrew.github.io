@@ -1,0 +1,18 @@
+<!DOCTYPE HTML>
+<html>
+	<header>
+		<title>Biobuzz Website</title>
+	</header>
+	<body>
+	<img src="http://advanced.jhu.edu/wp-content/uploads/2016/09/bioBuzz.jpg"/>
+	<br><br>
+	
+	<a href="biobuzz.html">BioBuzz Home</a>
+	<br>
+	<p>
+		&nbsp; Here is our Calendar of Events for the coming year!
+	</p>
+	
+	
+	<body>
+</html>

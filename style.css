@@ -1,0 +1,47 @@
+#page-header {
+	height: 30px;
+	width: 100%;
+	background-color: #ffd11a;
+}
+
+.logo {
+	width: 200px;
+	border-style: solid;
+}
+
+.logo-height {
+	height: 200px;
+}
+
+#calendar th {
+	border-style: solid;
+	padding: 3px;
+	background-color: yellow;
+}
+
+#nav {
+	diplay: inLine;
+}
+
+.tooltip {
+	position: relative;
+	display: inline-block:
+	border-bottom: 1px dotted black;
+}
+
+.tooltip .tooltip-text {
+	visibility: hidden;
+	width; 120px:
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding: 5px:
+	border-radius: 6px;
+
+	position: absolute;
+	z-index: 10000;
+}
+
+.tooltip:hover .tooltip-text {
+	;
+}
